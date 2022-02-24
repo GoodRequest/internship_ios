@@ -1,0 +1,33 @@
+@Tutorial() {
+    @Intro(title: "Week 7 - API") {
+        The final piece of this programming puzzle is API. Working with a server is an essential thing on every our application. We will focus on REST API and JSON response, how to download this base on parameters and how to parse this massive data into a simple object in Swift.
+        
+        **Keywords:** `REST`, `JSON`, `Alamofire`, `Codable`
+    }
+    
+    @Section(title: "Materials") {
+        @ContentAndMedia {
+            
+            - [JSON API documentation](https://jsonapi.org/)
+            - [Alamofire parsing](https://github.com/Alamofire/Alamofire)
+            - [Parse simple JSON array](https://nicknyn.medium.com/parse-simple-json-array-with-alamofire-and-codable-in-swift-5-1576f44ac5b9)
+            - [Alamofire 5 Tutorial](https://www.raywenderlich.com/6587213-alamofire-5-tutorial-for-ios-getting-started)
+            
+            @Image(source: "api.png", alt: "API image")
+        }
+    }
+    
+    @Section(title: "Tasks for this week") {
+        @ContentAndMedia {
+            
+            1. Sign up for [OpenWeahter API Token](https://home.openweathermap.org/users/sign_up)
+            2. Use [One Call API](https://openweathermap.org/api/one-call-api)
+            3. Fetch weather data with Coordinates from Week 5
+            4. Use Codable for parsing data
+            5. Print Swift object into log
+            
+            @Image(source: "todo.png", alt: "Image")
+        }
+    }
+    
+}

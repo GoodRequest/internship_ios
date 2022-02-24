@@ -1,0 +1,33 @@
+@Tutorial() {
+    @Intro(title: "Week 3 - UI") {
+        We will focus on UI. Interface and design are the most important in our applications because that’s what users see and can interact with. We are building responsive applications for all iPhone and iPad sizes with a single implementation using AutoLayout.
+        
+        We will get in touch with basic UI components, fonts, colors and constraints.
+        
+        **Keywords:** UIKit, Navigation Bar, View, Label, StackView, Constraints, AutoLayout
+    }
+    
+    @Section(title: "Materials") {
+        @ContentAndMedia {
+            
+            - [The Basics — The Swift Programming Language](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html)
+            - [The Swift Programming Languages](https://books.apple.com/gb/book/the-swift-programming-language-swift-5-5/id881256329)
+            - [Get Started with Xcode Playgrounds](https://www.appypie.com/xcode-playground-get-started-with-swift)
+            - [Programming in Swift: Fundamentals ](https://www.raywenderlich.com/28092971-programming-in-swift-fundamentals)
+            
+            @Image(source: "ui.png", alt: "Basics image")
+        }
+    }
+    
+    @Section(title: "Tasks for this week") {
+        @ContentAndMedia {
+            
+            1. Setup navigation bar according to the assignment
+            2. Implement labels in header view
+            3. Change colors, fonts, use placeholder text
+            
+            @Image(source: "macbook.png", alt: "Basics image")
+        }
+    }
+    
+}

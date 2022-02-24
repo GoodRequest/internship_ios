@@ -1,0 +1,30 @@
+@Tutorial() {
+    @Intro(title: "Week 2 - Swift") {
+        Since all you have programming experience, especially with Object-Oriented programming languages we will skip the basics and jump into Swift programming language and its syntax.
+        
+        **Keywords:** Swift, Playground
+    }
+    
+    @Section(title: "Materials") {
+        @ContentAndMedia {
+            
+            - [The Basics — The Swift Programming Language](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html)
+            - [The Swift Programming Languages](https://books.apple.com/gb/book/the-swift-programming-language-swift-5-5/id881256329)
+            - [Get Started with Xcode Playgrounds](https://www.appypie.com/xcode-playground-get-started-with-swift)
+            - [Programming in Swift: Fundamentals ](https://www.raywenderlich.com/28092971-programming-in-swift-fundamentals)
+            
+            @Image(source: "swift.png", alt: "Basics image")
+        }
+    }
+    
+    @Section(title: "Tasks for this week") {
+        @ContentAndMedia {
+            
+            1. Finish all Introduction to Swift tests on [The 100 Days of Swift](https://www.hackingwithswift.com/100)
+            2. Try examples in Playground
+            
+            @Image(source: "macbook.png", alt: "Basics image")
+        }
+    }
+    
+}

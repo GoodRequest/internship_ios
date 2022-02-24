@@ -1,0 +1,30 @@
+@Tutorial(time: 30) {
+    @Intro(title: "Week 1 - Getting Started") {
+        In the first week, we will take a look at iOS development basics. For those without Macbook and macOS experience, it will be about getting in touch with the operation system and preparing everything for development.
+        
+        We will present to you something about our company, how we work and how we build the biggest mobile applications in the Slovak market.
+        
+        **Keywords:** Xcode, macOS, Simulator
+    }
+    
+    @Section(title: "Materials") {
+        @ContentAndMedia {
+            
+            - [Map of Xcode](https://drive.google.com/uc?export=download&id=1ey2wSTJE1x_I53v2RNrSkUToH5Ar_Yry)
+            - [Xcode shortcuts](https://swifteducation.github.io/assets/pdfs/XcodeKeyboardShortcuts.pdf)
+            
+            @Image(source: "basics.png", alt: "Basics image")
+        }
+    
+    @Section(title: "Tasks for this week") {
+        @ContentAndMedia {
+            
+            1. Have Xcode installed and prepared for programming
+            2. Create a project with selected requirements
+            3. Buildable application with empty screen
+            
+            @Image(source: "macbook.png", alt: "Basics image")
+        }
+    }
+    
+}

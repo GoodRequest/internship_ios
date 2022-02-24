@@ -1,0 +1,30 @@
+@Tutorial() {
+    @Intro(title: "Week 5 - Location") {
+        Now we have our screen ready for some logic. The first thing when we want to show the weather for the current location is to receive the current location. Native API offers CoreLocation framework with simple implementation and requesting user’s location. We will discuss the security and the process of allowing this feature. Then we will parse Coordinates, City and Country. Coords will be used for API and City for UI.
+
+        
+        **Keywords:** `CoreLocation`, `CLLocationManager`, Coordinates, CLGeocoder, Reverse Geocode
+    }
+    
+    @Section(title: "Materials") {
+        @ContentAndMedia {
+            
+            - [Apple Developer Documentation](https://developer.apple.com/documentation/corelocation)
+            - [Current Location & Ceocoding in Swift](https://www.youtube.com/watch?v=MNF13IEn6vI)
+            
+            @Image(source: "location.png", alt: "Location image")
+        }
+    }
+    
+    @Section(title: "Tasks for this week") {
+        @ContentAndMedia {
+            
+            1. Implement Location Manager, request authorization from the user
+            2. Receive current coordinates
+            3. Fetch City and Country of received coordinates
+            
+            @Image(source: "todo.png", alt: "Image")
+        }
+    }
+    
+}

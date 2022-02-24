@@ -1,0 +1,25 @@
+@Tutorial() {
+    @Intro(title: "Week 8 - Finalizing") {
+        Now we should be able to put it all together. Our application after launch receives location and coordinates, fetches JSON data from OpenWeather API, parses it and presents it on our pixel-perfect UI. Now we can add some loading indicator when we are waiting for the response.
+    }
+    
+    @Section(title: "Materials") {
+        @ContentAndMedia {
+            
+            - [JSON API documentation](https://jsonapi.org/)
+            
+            @Image(source: "done.png", alt: "Done image")
+        }
+    }
+    
+    @Section(title: "Tasks for this week") {
+        @ContentAndMedia {
+            
+            1. Finish detail screen with weather data
+            2. Handle loading and prevent memory leaks
+            
+            @Image(source: "todo.png", alt: "Image")
+        }
+    }
+    
+}

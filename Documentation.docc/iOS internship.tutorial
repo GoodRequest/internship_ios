@@ -1,0 +1,44 @@
+@Tutorials(name: "iOS Internship") {
+    @Intro(title: "Welcome to GoodRequest iOS Internship program") {
+        You will learn basics of iOS programming and development.
+        
+        Here is your <doc:Assignment>
+        @Image(source: "hello.png", alt: "GoodRequest Logo")
+    }
+        
+    @Chapter(name: "Getting Started") {
+        In the first week, we will take a look at iOS development basics. For those without Macbook and macOS experience, it will be about getting in touch with the operation system and preparing everything for development.
+        
+        We will present to you something about our company, how we work and how we build the biggest mobile applications in the Slovak market.
+        
+        @Image(source: "basics.png", alt: "Basics image")
+        
+        @TutorialReference(tutorial: "doc:Week1")
+    }
+    
+    @Chapter(name: "Swift") {
+        Since all you have programming experience, especially with Object-Oriented programming languages we will skip the basics and jump into Swift programming language and its syntax.
+        
+        @Image(source: "swift.png", alt: "Basics image")
+        
+        @TutorialReference(tutorial: "doc:Week2")
+    }
+    
+    @Chapter(name: "UI") {
+        We will focus on UI. Interface and design are the most important in our applications because that’s what users see and can interact with. We are building responsive applications for all iPhone and iPad sizes with a single implementation using AutoLayout.
+        
+        We will get in touch with basic UI components, fonts, colors and constraints.
+        
+        @Image(source: "ui.png", alt: "UI image")
+        
+        @TutorialReference(tutorial: "doc:Week3")
+    }
+    
+    @Chapter(name: "TableView") {
+        TableView is not only UI component but also our guide to understanding the Delegation pattern and how UI reload is handled in native API. We don’t want to implement 6 same UI elements for every day, but one reusable. Our goal will be to finish the UI of this screen and prepare our implementation for the logic part.
+        
+        @Image(source: "tableview.png", alt: "TableView image")
+        
+        @TutorialReference(tutorial: "doc:Week4")
+    }
+}
