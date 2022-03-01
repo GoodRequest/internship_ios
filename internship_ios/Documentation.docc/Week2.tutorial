@@ -2,7 +2,7 @@
     @Intro(title: "Week 2 - Swift") {
         Since all you have programming experience, especially with Object-Oriented programming languages we will skip the basics and jump into Swift programming language and its syntax.
         
-        **Keywords:** Swift, Playground
+        **Keywords:** `Swift`, `Playground`
     }
     
     @Section(title: "Materials") {
@@ -23,7 +23,7 @@
             1. Finish all Introduction to Swift tests on [The 100 Days of Swift](https://www.hackingwithswift.com/100)
             2. Try examples in Playground
             
-            @Image(source: "macbook.png", alt: "Basics image")
+            @Image(source: "todo.png", alt: "Todo image")
         }
     }
     

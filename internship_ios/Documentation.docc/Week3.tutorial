@@ -4,7 +4,7 @@
         
         We will get in touch with basic UI components, fonts, colors and constraints.
         
-        **Keywords:** UIKit, Navigation Bar, View, Label, StackView, Constraints, AutoLayout
+        **Keywords:** `UIKit`, `Navigation Bar`, `View`, `Label`, `StackView`, `Constraints`, `AutoLayout`
     }
     
     @Section(title: "Materials") {
@@ -26,7 +26,7 @@
             2. Implement labels in header view
             3. Change colors, fonts, use placeholder text
             
-            @Image(source: "macbook.png", alt: "Basics image")
+            @Image(source: "todo.png", alt: "Todo image")
         }
     }
     

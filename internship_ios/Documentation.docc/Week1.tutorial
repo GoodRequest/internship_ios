@@ -4,7 +4,7 @@
         
         We will present to you something about our company, how we work and how we build the biggest mobile applications in the Slovak market.
         
-        **Keywords:** Xcode, macOS, Simulator
+        **Keywords:** `Xcode`, `macOS`, `Simulator`
     }
     
     @Section(title: "Materials") {
@@ -23,7 +23,7 @@
             2. Create a project with selected requirements
             3. Buildable application with empty screen
             
-            @Image(source: "macbook.png", alt: "Basics image")
+            @Image(source: "todo.png", alt: "Todo image")
         }
     }
     

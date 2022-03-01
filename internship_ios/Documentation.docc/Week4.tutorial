@@ -2,7 +2,7 @@
     @Intro(title: "Week 4 - TableView") {
         TableView is not only UI component but also our guide to understanding the Delegation pattern and how UI reload is handled in native API. We don’t want to implement 6 same UI elements for every day, but one reusable. Our goal will be to finish the UI of this screen and prepare our implementation for the logic part.
         
-        **Keywords:** UITableView, UITableViewCell, Delegate
+        **Keywords:** `UITableView`, `UITableViewCell`, `Delegaion pattern`
     }
     
     @Section(title: "Materials") {
@@ -24,7 +24,7 @@
             2. Implement TableView methods
             3. Prepare all UI before data implementation
             
-            @Image(source: "todo.png", alt: "Basics image")
+            @Image(source: "todo.png", alt: "Todo image")
         }
     }
     

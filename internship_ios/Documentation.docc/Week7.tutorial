@@ -26,7 +26,7 @@
             4. Use Codable for parsing data
             5. Print Swift object into log
             
-            @Image(source: "todo.png", alt: "Image")
+            @Image(source: "todo.png", alt: "Todo image")
         }
     }
     

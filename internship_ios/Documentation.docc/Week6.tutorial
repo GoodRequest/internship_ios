@@ -2,7 +2,7 @@
     @Intro(title: "Week 6 - Libraries") {
         There are a few options for adding dependencies to the Xcode project. We will take a look at Cocoapods and Swift Package Manager. We are trying to minimalize dependencies, but there are still some Core SDKs we love working with. One of them is Alamofire, the network manager that handles a lot of cases for us.
         
-        **Keywords:** `Cocoapods, Swift Package Manager, Alamofire`
+        **Keywords:** `Cocoapods`, `Swift Package Manager`, `Alamofire`
     }
     
     @Section(title: "Materials") {
@@ -12,7 +12,7 @@
             - [Cocoapods.org](https://cocoapods.org/)
             - [Alamofire](https://github.com/Alamofire/Alamofire)
             
-            @Image(source: "location.png", alt: "Location image")
+            @Image(source: "libraries.png", alt: "Location image")
         }
     }
     
@@ -22,7 +22,7 @@
             1. Choose package manager (SPM or Cocoapods)
             2. Add Alamofire to the project
             
-            @Image(source: "todo.png", alt: "Image")
+            @Image(source: "todo.png", alt: "Todo image")
         }
     }
     

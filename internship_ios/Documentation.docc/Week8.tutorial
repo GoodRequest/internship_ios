@@ -18,7 +18,7 @@
             1. Finish detail screen with weather data
             2. Handle loading and prevent memory leaks
             
-            @Image(source: "todo.png", alt: "Image")
+            @Image(source: "todo.png", alt: "Todo image")
         }
     }
     
