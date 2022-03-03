@@ -10,12 +10,14 @@
     @Section(title: "Materials") {
         @ContentAndMedia {
             
+            - [macOS Shortcuts](https://support.apple.com/en-gb/HT201236)
             - [Map of Xcode](https://drive.google.com/uc?export=download&id=1ey2wSTJE1x_I53v2RNrSkUToH5Ar_Yry)
             - [Xcode shortcuts](https://swifteducation.github.io/assets/pdfs/XcodeKeyboardShortcuts.pdf)
             
             @Image(source: "basics.png", alt: "Basics image")
         }
     }
+    
     @Section(title: "Tasks for this week") {
         @ContentAndMedia {
             

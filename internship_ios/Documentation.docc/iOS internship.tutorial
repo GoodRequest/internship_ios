@@ -2,21 +2,22 @@
     @Intro(title: "Welcome to GoodRequest iOS Internship program") {
         You will learn the basics of iOS mobile development
     }
-     
-     @Volume(name: "Semester work") {
-         Create a single-screen weather forecast application that displays the current weather at the selected location. The application will use free to use and publicly available API. Get the necessary data from the API and then present it. 
-                                                                                          
-         <doc:Assignment>
-                  
-         @Image(source: "hello2.png", alt: "GoodRequest Logo")
+    
+    @Volume(name: "Organization") {
+        You will find all the meeting notes and lecture material on these pages.
+        
+        <doc:Organization>
 
+         <doc:Assignment>
+         
+         @Image(source: "hello2.png", alt: "GoodRequest Logo")
+         
     @Chapter(name: "Getting Started") {
         In the first week, we will take a look at iOS development basics. For those without Macbook and macOS experience, it will be about getting in touch with the operation system and preparing everything for development.
         
         We will present to you something about our company, how we work and how we build the biggest mobile applications in the Slovak market.
         
         @Image(source: "basics.png", alt: "Basics image")
-        
         @TutorialReference(tutorial: "doc:Week1")
     }
     
