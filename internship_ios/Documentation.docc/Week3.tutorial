@@ -10,10 +10,10 @@
     @Section(title: "Materials") {
         @ContentAndMedia {
             
-            - [The Basics — The Swift Programming Language](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html)
-            - [The Swift Programming Languages](https://books.apple.com/gb/book/the-swift-programming-language-swift-5-5/id881256329)
-            - [Get Started with Xcode Playgrounds](https://www.appypie.com/xcode-playground-get-started-with-swift)
-            - [Programming in Swift: Fundamentals ](https://www.raywenderlich.com/28092971-programming-in-swift-fundamentals)
+            - [Screen Sizes](https://www.screensizes.app/)
+            - [AutoLayout](https://developer.apple.com/library/archive/documentation/UserExperience/Conceptual/AutolayoutPG/index.html)
+            - [AutoLayout Tutorial in iOS](https://www.raywenderlich.com/811496-auto-layout-tutorial-in-ios-getting-started)
+            - [How to use AutoLayout for beginners](https://www.youtube.com/watch?v=3y23UebzCYw)
             
             @Image(source: "ui.png", alt: "Basics image")
         }
